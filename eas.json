@@ -1,0 +1,27 @@
+{
+  "cli": {
+    "version": ">= 5.0.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "christopher.swofford@gmail.com",
+        "ascAppId": "PLACEHOLDER",
+        "appleTeamId": "W356BF2Y83",
+        "ascApiKeyPath": "./AuthKey_P7N4KMG8GB.p8",
+        "ascApiKeyIssuerId": "f32b6e02-58bd-4705-a469-0051c114d4db",
+        "ascApiKeyId": "P7N4KMG8GB"
+      }
+    }
+  }
+}
