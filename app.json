@@ -42,11 +42,11 @@
     "plugins": [
       "react-native-iap"
     ],
+    "owner": "cswofford",
     "extra": {
       "eas": {
-        "projectId": "PLACEHOLDER"
+        "projectId": "afdb6144-d773-4e6e-abf8-79c8359c69b7"
       }
-    },
-    "owner": "cswofford"
+    }
   }
 }
